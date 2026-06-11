@@ -260,8 +260,6 @@ These files are reproducible artifacts and are deliberately not tracked by Git.
 - The default seed initializes NumPy and PyTorch.
 - GPU and CPU runs may still differ slightly because of floating-point and
   backend behavior.
-- Full 10,000-epoch training can be expensive. Do not judge accuracy from the
-  one-epoch smoke-test command.
 - Cases 1-3 must preserve order dependencies. Deleting an order-0 checkpoint
   before training order 1, or an order-1 checkpoint before order 2, will cause
   the run to fail.
