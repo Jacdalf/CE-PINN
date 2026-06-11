@@ -273,9 +273,8 @@ These files are reproducible artifacts and are deliberately not tracked by Git.
 If this code contributes to published work, cite the accompanying manuscript:
 
 ```text
-Composite-expansion physics-informed neural networks for solving boundary
-layer singularly perturbed problems, Journal of Computational Physics
-submission, revised manuscript (2026).
+Haonan Liu, Lei Zhang, Zhaobin Li, Composite-expansion physics-informed neural networks for solving boundary
+layer singularly perturbed problems, revised manuscript under review (2026.6), Journal of Computational Physics
 ```
 
 Replace this provisional citation with the final author list, volume, pages and
